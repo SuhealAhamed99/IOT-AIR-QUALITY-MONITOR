@@ -42,9 +42,9 @@ The system continuously reads gas levels through the analog input (POT as MQ2) o
 
 🧰 Components Used:
 
-📦 ESP32 Dev Board
+   📦 ESP32 Dev Board
 
-💨 MQ2 Gas Sensor (simulated with potentiometer)
+   💨 MQ2 Gas Sensor (simulated with potentiometer)
 
 💡 Red & Green LEDs
 
