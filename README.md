@@ -100,3 +100,9 @@ I2C LCD	SDA/SCL via default ESP32 pins
 💡 LED ON/OFF and buzzer status photos
 
 🖥️ Serial Monitor logs showing gas levels and status
+
+![Image](https://github.com/user-attachments/assets/4a225a88-df69-489b-ab70-fb88929783f3)
+![Image](https://github.com/user-attachments/assets/9abc1f2b-69a3-401b-bd08-e5f3cf758e34)
+![Image](https://github.com/user-attachments/assets/5276391c-9454-496e-811b-70d686167218)
+![Image](https://github.com/user-attachments/assets/e6c78b01-b7a5-4e96-af2f-9a73f3e5be4d)
+![Image](https://github.com/user-attachments/assets/7144d8dd-a924-4201-aa66-4c1576f2af2a)
